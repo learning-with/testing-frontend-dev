@@ -14,5 +14,5 @@
 
 |주차| 목표 진도|
 |-----|-------|
-|1주차| chapter1~chapter3|
+|1주차| chapter1~chapter4|
 |2주차||
